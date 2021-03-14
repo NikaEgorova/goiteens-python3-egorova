@@ -35,7 +35,7 @@ My homework
 # hw2
 *contains five tasks completed successfully and two tasks of increased complexity*
 
-### [Task3](https://anastasiachernikova.github.io/PythonHomeworks/python_homework1.html)
+### [Task3](https://anastasiachernikova.github.io/PythonHomeworks/python_homework2.html)
 
 1. Користувач вводить з клавіатури кількість років президентства. Порахувати скільки термінів цей президент управляв США. Вивести на консоль повідомлення "Президент не може бути на посту президента більше 2 термінів", якщо в результаті вийшло більше 2 термінів.
 2. В змінні з іменем президентів записано кількість їхніх термінів на посту. Вивести на консоль кількість років їхнього президентства для кожного окремо.
