@@ -1,5 +1,5 @@
 # goiteens-python3-egorova
-My homework
+My homeworks and lesson tasks
 
 # hw1
 *contains four tasks completed successfully*
